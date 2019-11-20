@@ -1,0 +1,224 @@
+.body{
+    background-color: aqua;
+    
+       
+ 
+
+}
+
+.header-inicio{
+    text-align: center ;
+    color: grey;
+    position: absolute;
+    top: 120px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
+ 
+}
+
+.rectangulo1{
+    
+    
+    height: 40px;
+    width: 700px;
+    border: 0.1px solid;
+    color: #23222;
+    background-color: grey;
+    border-radius: 30px;
+    
+
+}
+
+
+.rectangulo{
+    
+    
+    height: 40px;
+    width: 1000px;
+    border: 0.1px solid;
+    color: #23222;
+    background-color: grey;
+    border-radius: 30px;
+    
+    
+
+}
+
+.color-letra{
+    color: aliceblue;
+    left: 15px;
+    
+    
+}
+.foto{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 150px ;
+    position: absolute;
+    top: 70px;
+    bottom: 0;
+    right: 0;
+    left: 500px;
+    
+
+
+    
+    
+}
+
+.contenedor{
+    display: flex;
+    justify-content: space-between;
+    background-position: center ;
+    padding: 2rem;
+    position: absolute;
+    top: 300px;
+    bottom: 0;
+    right: 0;
+    left: 20px;
+
+}
+
+.profile1{
+    position: absolute;
+    top: 190px;
+    bottom: 0;
+    right: 0;
+    left: 15px;
+
+}
+.texto{
+    position: absolute;
+    top: 150px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    
+}
+
+.texto1{
+    position: absolute;
+    top: 150px;
+    bottom: 0;
+    right: 0;
+    left: 290px;
+}
+
+
+.texto2{
+    position: absolute;
+    top: 150px;
+    bottom: 0;
+    right: 0;
+    left: 590px;
+}
+
+
+.texto3{
+    position: absolute;
+    top: 150px;
+    bottom: 0;
+    right: 0;
+    left: 890px;
+}
+
+
+
+
+.profile2{
+    position: absolute;
+    top: 170px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
+}
+.texto4{
+    position: absolute;
+    top: 240px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.texto5{
+    position: absolute;
+    top: 240px;
+    bottom: 0;
+    right: 0;
+    left: 290px;
+}
+
+
+.texto6{
+    position: absolute;
+    top: 240px;
+    bottom: 0;
+    right: 0;
+    left: 590px;
+}
+
+
+.texto7{
+    position: absolute;
+    top: 240px;
+    bottom: 0;
+    right: 0;
+    left: 890px;
+}
+
+
+
+
+.logo1{
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 150px ;
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    right: 0;
+    left: 380px;
+
+}
+
+.logo2{
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 150px ;
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    right: 0;
+    left: 450px;
+
+}
+
+.logo3{
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 150px ;
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    right: 0;
+    left: 520px;
+
+}
+
+.logo4{
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 150px ;
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    right: 0;
+    left: 590px;
+
+}
+
+
+
